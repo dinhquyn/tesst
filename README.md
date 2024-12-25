@@ -10,12 +10,19 @@ Tạ Văn Thanh
 ![image](https://github.com/user-attachments/assets/e0fc8ef5-aadf-42d5-80b5-761dd3621475)
 ## Sequence diagram
 Chức năng tạo danh sách bài hát
+
 ![image](https://github.com/user-attachments/assets/0c4677fa-786f-4ff5-a097-576af32c291b)
+
 Chức năng xóa bài hát khỏi danh sách 
+
 ![image](https://github.com/user-attachments/assets/c2fff65b-c83a-4296-8155-0816f8612886)
+
 Chức năng phát và dừng nhạc
+
 ![image](https://github.com/user-attachments/assets/4743ffc2-70cc-4391-b5e9-0d8e642d5535)
+
 Chức năng tua bài hát
+
 ![image](https://github.com/user-attachments/assets/76ec0265-ceb4-49a1-b016-9dd28dff1cba)
 
 
