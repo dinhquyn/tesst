@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dfcae67a-839d-4f79-bde4-29ca65576e98)# Nhóm 12 - Music-app-
+
 ## Members:
 Đinh Xuân Quyền
 Phan Văn Tình
