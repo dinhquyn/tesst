@@ -31,6 +31,7 @@ Chức năng tua bài hát
 Chức năng xóa bài hát
 
 ![image](https://github.com/user-attachments/assets/8c95d73e-b64b-4a24-96b1-b9357b2ea162)
+
 Chức năng chơi và phát nhạc 
 
 ![image](https://github.com/user-attachments/assets/b694f21f-3f4e-4fec-b9f5-fe6085938f46)
