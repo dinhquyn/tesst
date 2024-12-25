@@ -28,6 +28,16 @@ Chức năng tua bài hát
 
 ![image](https://github.com/user-attachments/assets/76ec0265-ceb4-49a1-b016-9dd28dff1cba)
 
+Chức năng chọn bài kế tiếp
+
+![image](https://github.com/user-attachments/assets/104a8218-5232-4f83-99a9-b29604e035f7)
+
+Chức năng lặp lại bài hát
+
+![image](https://github.com/user-attachments/assets/5a342b1d-e844-4179-bad6-8bb510122946)
+
+
+
 
 
 ## Activity Diagram
