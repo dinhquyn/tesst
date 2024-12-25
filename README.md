@@ -25,20 +25,30 @@ Chức năng tua bài hát
 
 Class User {
   int UserId;
+  
   String name;
+  
   String email;
 },
 
 
 Class Playlist{
   List<Track> tracks = []; 
+  
   int PlayId;
+  
   String Namesong;
+  
   String Author;
+  
   String description;
+  
   DateTime createdAt;
-  DateTime updatedAt;             
-  bool repeat = false;            
+  
+  DateTime updatedAt;      
+  
+  bool repeat = false;   
+  
   bool isPlaying = false;         
 }
 
