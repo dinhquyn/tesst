@@ -30,17 +30,21 @@ Chức năng tua bài hát
 ## Activity Diagram
 Chức năng xóa bài hát
 
-![image](https://github.com/user-attachments/assets/8c95d73e-b64b-4a24-96b1-b9357b2ea162)
+![image](https://github.com/user-attachments/assets/5537c3a8-bd68-43da-a1a2-35eca2ad078c)
+
 
 Chức năng chơi và phát nhạc 
 
-![image](https://github.com/user-attachments/assets/b694f21f-3f4e-4fec-b9f5-fe6085938f46)
+![image](https://github.com/user-attachments/assets/43183c1b-7154-4047-9e13-682def479353)
+
 Chức năng thêm và xóa bài hát 
 
-![image](https://github.com/user-attachments/assets/978f7385-49ed-49a2-9c4d-a3ab1b5686ea)
+![image](https://github.com/user-attachments/assets/9a943125-05b1-49c3-8587-9afa28b5537c)
+
 Chức năng tạo danh sách phát mới
 
-![image](https://github.com/user-attachments/assets/366417d8-5419-4657-9e27-475eb8afbb62)
+![image](https://github.com/user-attachments/assets/509236c3-e35b-42ec-aff8-3a8fab17fc56)
+
 
 
 
