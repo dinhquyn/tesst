@@ -1,8 +1,11 @@
-
+## Group 12 - Project: Music App 
 ## Members:
-Đinh Xuân Quyền
-Phan Văn Tình
-Tạ Văn Thanh
+Đinh Xuân Quyền 22010342
+
+Phan Văn Tình 22010122
+
+Tạ Văn Thanh 22010161
+
 ## Introduction
 Ứng dụng nghe nhạc số cơ bản, người dùng sẽ có các chức năng nghe và phát nhạt, tạo danh sách các bài hát  
 # Structural Diagram
