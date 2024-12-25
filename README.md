@@ -21,6 +21,18 @@ Chức năng tua bài hát
 
 
 ## Activity Diagram
+Chức năng xóa bài hát
+![image](https://github.com/user-attachments/assets/8c95d73e-b64b-4a24-96b1-b9357b2ea162)
+Chức năng chơi và phát nhạc 
+![image](https://github.com/user-attachments/assets/b694f21f-3f4e-4fec-b9f5-fe6085938f46)
+Chức năng thêm và xóa bài hát 
+![image](https://github.com/user-attachments/assets/978f7385-49ed-49a2-9c4d-a3ab1b5686ea)
+Chức năng tạo danh sách phát mới
+![image](https://github.com/user-attachments/assets/366417d8-5419-4657-9e27-475eb8afbb62)
+
+
+
+
 ## Class Diagram
 
 Class User {
