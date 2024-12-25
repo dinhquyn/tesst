@@ -55,10 +55,17 @@ Class Playlist{
 
 class Song {
   String title;         
-  String artist;          
-  int duration;         
-  String genre;           
-  int releaseYear;        
-  String album;          
-  String audioFormat;    
+  
+  String artist;   
+  
+  int duration;    
+  
+  String genre;    
+  
+  int releaseYear;   
+  
+  String album;        
+  
+  String audioFormat;  
+  
   }
