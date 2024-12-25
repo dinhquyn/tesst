@@ -34,10 +34,10 @@ Class Playlist{
   String Namesong;
   String Author;
   String description;
-  DateTime createdAt;             // Ngày tạo Playlist
-  DateTime updatedAt;             // Ngày cập nhật Playlist lần cuối
-  bool repeat = false;            // Chế độ lặp lại (true/false)
-  bool isPlaying = false;         // Trạng thái phát nhạc (đang chơi hay không)
+  DateTime createdAt;
+  DateTime updatedAt;             
+  bool repeat = false;            
+  bool isPlaying = false;         
 }
 
 class Song {
