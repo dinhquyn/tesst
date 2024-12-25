@@ -41,22 +41,38 @@ Chức năng lặp lại bài hát
 
 
 ## Activity Diagram
-Chức năng xóa bài hát
+Chức năng tạo danh sách bài hát
 
-![image](https://github.com/user-attachments/assets/5537c3a8-bd68-43da-a1a2-35eca2ad078c)
+![image](https://github.com/user-attachments/assets/ba98bf7a-adfb-492f-9aef-7f11577a8ff4)
+
+Chức năng thêm bài hát vào danh sách phát 
+![image](https://github.com/user-attachments/assets/1291ce7d-f30d-4e7a-af22-c475224e5655)
+
+Chức năng xóa bài hát khỏi danh sách 
+
+![image](https://github.com/user-attachments/assets/a52c359c-d3df-4e0e-b048-e4f23b023760)
+
+Chức năng phát nhạc
+![image](https://github.com/user-attachments/assets/f313e090-bf59-4580-a060-c23addc0a2f0)
+
+Chức năng dừng nhạc
+
+![image](https://github.com/user-attachments/assets/fc005c1a-89cb-418f-83cd-03f19b3f4b44)
+
+Chức năng tua bài hát
+
+![image](https://github.com/user-attachments/assets/defa131c-452d-4f4c-9f09-226521747415)
 
 
-Chức năng chơi và phát nhạc 
+Chức năng chọn bài kế tiếp
 
-![image](https://github.com/user-attachments/assets/43183c1b-7154-4047-9e13-682def479353)
+![image](https://github.com/user-attachments/assets/c8c1eb4a-8c92-4670-b821-1856499ce9ab)
 
-Chức năng thêm và xóa bài hát 
 
-![image](https://github.com/user-attachments/assets/9a943125-05b1-49c3-8587-9afa28b5537c)
+Chức năng lặp lại bài hát
 
-Chức năng tạo danh sách phát mới
+![image](https://github.com/user-attachments/assets/dffd51a8-b67c-4590-945e-cfe90a25139f)
 
-![image](https://github.com/user-attachments/assets/509236c3-e35b-42ec-aff8-3a8fab17fc56)
 
 
 
