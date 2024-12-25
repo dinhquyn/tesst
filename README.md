@@ -28,6 +28,8 @@ Class User {
   String name;
   String email;
 },
+
+
 Class Playlist{
   List<Track> tracks = []; 
   int PlayId;
@@ -39,6 +41,7 @@ Class Playlist{
   bool repeat = false;            
   bool isPlaying = false;         
 }
+
 
 class Song {
   String title;         
