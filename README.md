@@ -8,6 +8,8 @@ Tạ Văn Thanh 22010161
 
 ## Introduction
 Ứng dụng nghe nhạc số cơ bản, người dùng sẽ có các chức năng nghe và phát nhạt, tạo danh sách các bài hát  
+![image](https://github.com/user-attachments/assets/43f5369b-6e99-40cd-906c-150525612188)
+
 # Structural Diagram
 ## UML diagram 
 ![image](https://github.com/user-attachments/assets/e0fc8ef5-aadf-42d5-80b5-761dd3621475)
