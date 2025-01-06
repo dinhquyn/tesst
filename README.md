@@ -1,4 +1,14 @@
 # MobileAppDev_N05_Group12
+# Ảnh màn Hình Home 
+
+![image](https://github.com/user-attachments/assets/d9258553-e88c-4bde-8b59-d28678ecad2a)
+
+
+# Ảnh màn Hình User
+
+![image](https://github.com/user-attachments/assets/cd7b5269-0c1d-4f2e-9149-b50aa344dc4f)
+
+
 # Class User
 class User {
 
