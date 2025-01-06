@@ -1,7 +1,6 @@
 # MobileAppDev_N05_Group12
 # Class User
 class User {
-
   final String username;
   
   final String password;
@@ -24,7 +23,6 @@ class User {
 import 'user.dart';
 
 final List<User> users = [
-
   User(username: 'Đinh Xuân Quyền', password: '123456@Abc', role: 'Admin'),
   
   User(username: 'Phan Văn Tình', password: '123456@Abc', role: 'User'),
